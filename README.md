@@ -1,8 +1,6 @@
 # Handwritten Digit Recognizer
 
-<p align="center">
-  <img src="Demo.mp4" alt="Demo Video" width="600"/>
-</p>
+
 
 A sophisticated **Deep Learning Neural Network** application with an interactive GUI, built to recognize handwritten digits in real-time. This project implements a Convolutional Neural Network (CNN) trained on the MNIST dataset, providing high-accuracy predictions through a custom-built Tkinter drawing interface.
 
